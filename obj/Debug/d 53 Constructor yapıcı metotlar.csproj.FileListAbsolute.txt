@@ -1,0 +1,7 @@
+C:\Users\docal\source\repos\d 53 Constructor yapıcı metotlar\bin\Debug\d 53 Constructor yapıcı metotlar.exe.config
+C:\Users\docal\source\repos\d 53 Constructor yapıcı metotlar\bin\Debug\d 53 Constructor yapıcı metotlar.exe
+C:\Users\docal\source\repos\d 53 Constructor yapıcı metotlar\bin\Debug\d 53 Constructor yapıcı metotlar.pdb
+C:\Users\docal\source\repos\d 53 Constructor yapıcı metotlar\obj\Debug\d 53 Constructor yapıcı metotlar.csprojAssemblyReference.cache
+C:\Users\docal\source\repos\d 53 Constructor yapıcı metotlar\obj\Debug\d 53 Constructor yapıcı metotlar.csproj.CoreCompileInputs.cache
+C:\Users\docal\source\repos\d 53 Constructor yapıcı metotlar\obj\Debug\d 53 Constructor yapıcı metotlar.exe
+C:\Users\docal\source\repos\d 53 Constructor yapıcı metotlar\obj\Debug\d 53 Constructor yapıcı metotlar.pdb
